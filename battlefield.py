@@ -17,3 +17,6 @@ class Battlefield:
 
     def display_winner(self):
         pass
+
+    def chera():
+        pass
