@@ -13,3 +13,6 @@
 from battlefield import Battlefield
 
 user = Battlefield()
+
+def are():
+    pass
