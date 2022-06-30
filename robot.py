@@ -8,3 +8,6 @@ class Robot:
 
     def attack(self, dinosaur):
         pass
+
+    def chera():
+        pass
