@@ -1,3 +1,3 @@
 # robo_v_dino
 
-fight between robot vs dinosaur
+fight between robot and the dinosaur 
