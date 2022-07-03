@@ -10,7 +10,7 @@ class Battlefield:
 
     def run_game(self):
         self.display_welcome()
-        while self.dinosaur.dino_health > 0 or self.robot.robot_health > 0:
+        while self.dinosaur.dino_health > 0 and self.robot.robot_health > 0:
             self.battle_phase()
         
     def display_welcome(self):
